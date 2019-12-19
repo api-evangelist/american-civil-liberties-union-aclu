@@ -1,0 +1,51 @@
+{
+    "name": "American Civil Liberties Union (ACLU)",
+    "description": "<p>For almost 100 years, the ACLU has worked to defend and preserve the individual rights and liberties guaranteed by the Constitution and laws of the United States.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aclu-logo.png",
+    "tags": [
+        "api not found",
+        "have api",
+        "privacy",
+        "surveillance",
+        "transparency"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/american-civil-liberties-union-aclu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "American Civil Liberties Union (ACLU)",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aclu-logo.png",
+            "humanURL": "https:\/\/www.aclu.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/american-civil-liberties-union-aclu-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.aclu.org\/blog-feed\/gamut"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.aclu.org\/blog-feed\/all\/feed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aclu"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.aclu.org"
+        }
+    ]
+}
